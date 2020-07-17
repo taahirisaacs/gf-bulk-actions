@@ -1,0 +1,10 @@
+{
+    "name": "taahirisaacs/gf-bulk-actions",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/taahirisaacs/gf-bulk-actions",
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+}
